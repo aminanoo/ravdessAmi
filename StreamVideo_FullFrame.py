@@ -50,7 +50,7 @@ batch_size = 64
 num_classes = len(emotions)
 
 val_actors = ['19', '20']
-test_actors = ['21', '22', '23', '24']
+test_actors = ['01', '02', '03', '04']
 
 # ## Model 1: 224x224 color
 
